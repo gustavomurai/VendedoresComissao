@@ -1,0 +1,14 @@
+C:\ProjetosCS\SistemaVendas\SistemaVendas\bin\Debug\net8.0\SistemaVendas.exe
+C:\ProjetosCS\SistemaVendas\SistemaVendas\bin\Debug\net8.0\SistemaVendas.deps.json
+C:\ProjetosCS\SistemaVendas\SistemaVendas\bin\Debug\net8.0\SistemaVendas.runtimeconfig.json
+C:\ProjetosCS\SistemaVendas\SistemaVendas\bin\Debug\net8.0\SistemaVendas.dll
+C:\ProjetosCS\SistemaVendas\SistemaVendas\bin\Debug\net8.0\SistemaVendas.pdb
+C:\ProjetosCS\SistemaVendas\SistemaVendas\obj\Debug\net8.0\SistemaVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosCS\SistemaVendas\SistemaVendas\obj\Debug\net8.0\SistemaVendas.AssemblyInfoInputs.cache
+C:\ProjetosCS\SistemaVendas\SistemaVendas\obj\Debug\net8.0\SistemaVendas.AssemblyInfo.cs
+C:\ProjetosCS\SistemaVendas\SistemaVendas\obj\Debug\net8.0\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\ProjetosCS\SistemaVendas\SistemaVendas\obj\Debug\net8.0\SistemaVendas.dll
+C:\ProjetosCS\SistemaVendas\SistemaVendas\obj\Debug\net8.0\refint\SistemaVendas.dll
+C:\ProjetosCS\SistemaVendas\SistemaVendas\obj\Debug\net8.0\SistemaVendas.pdb
+C:\ProjetosCS\SistemaVendas\SistemaVendas\obj\Debug\net8.0\SistemaVendas.genruntimeconfig.cache
+C:\ProjetosCS\SistemaVendas\SistemaVendas\obj\Debug\net8.0\ref\SistemaVendas.dll
